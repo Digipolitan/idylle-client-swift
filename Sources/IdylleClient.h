@@ -1,5 +1,5 @@
-#ifndef _DGFRAMEWORKTEMPLATE_H
-#define _DGFRAMEWORKTEMPLATE_H
+#ifndef _IDYLLECLIENT_H
+#define _IDYLLECLIENT_H
 
 #import <Foundation/Foundation.h>
 
@@ -9,4 +9,4 @@ FOUNDATION_EXPORT double IdylleClientVersionNumber;
 //! Project version string for IdylleClient
 FOUNDATION_EXPORT const unsigned char IdylleClientVersionString[];
 
-#endif /* _DGFRAMEWORKTEMPLATE_H */
+#endif /* _IDYLLECLIENT_H */

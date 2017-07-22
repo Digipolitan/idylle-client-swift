@@ -6,8 +6,6 @@
 //  Copyright © 2017 Digipolitan. All rights reserved.
 //
 
-import Foundation
-
 public class CriteriaBuilder {
 
     public var `where`: [String: Any] = [:]
