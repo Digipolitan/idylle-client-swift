@@ -16,6 +16,8 @@ public class CriteriaBuilder {
     public var limit: Int?
     public var offset: Int?
 
+    public init() {}
+
     @discardableResult
     public func sort(using field: String, ordering: Ordering) -> CriteriaBuilder {
         let direction = ordering == Ordering.desc ? "-" : ""

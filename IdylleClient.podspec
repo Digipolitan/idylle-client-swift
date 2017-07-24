@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name = "IdylleClient"
-s.version = "1.0.0"
+s.version = "1.0.1"
 s.summary = "Idylle client helper"
 s.homepage = "https://github.com/Digipolitan/idylle-client-swift"
 s.authors = "Digipolitan"
