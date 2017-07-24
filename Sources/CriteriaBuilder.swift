@@ -78,7 +78,7 @@ extension CriteriaBuilder { // Nested Types
         public var field: String
         public var children: [Include]?
 
-        init(field: String, children: [Include]? = nil) {
+        public init(field: String, children: [Include]? = nil) {
             self.field = field
             self.children = children
         }
