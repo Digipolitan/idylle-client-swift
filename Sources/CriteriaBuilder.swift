@@ -86,8 +86,8 @@ extension CriteriaBuilder { // Nested Types
         fileprivate func build() -> Any {
             if let children = self.children {
                 let count = children.count
-                if count >= 0 {
-                    if count > 0 {
+                if count > 0 {
+                    if count > 1 {
                         return [
                             self.field: children.map { $0.build() }
                         ]
