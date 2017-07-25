@@ -72,6 +72,6 @@ class IdylleClientTests: XCTestCase {
             XCTFail("Cannot build criteria")
             return
         }
-        XCTAssertEqual(criteria, "{\"includes\":[{\"friends\":[{\"family\":[\"friends\"]},\"address\"]}]}")
+        XCTAssertEqual(criteria, "{\"includes\":[{\"friends\":[{\"family\":\"friends\"},\"address\"]}]}")
     }
 }
