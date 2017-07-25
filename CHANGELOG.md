@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [1.0.3](https://github.com/Digipolitan/idylle-client-swift/releases/tag/v1.0.3)
+
+fix include error
+
+---
+
 ## [1.0.2](https://github.com/Digipolitan/idylle-client-swift/releases/tag/v1.0.2)
 
 fix init public on include
