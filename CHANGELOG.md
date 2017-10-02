@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [1.0.4](https://github.com/Digipolitan/idylle-client-swift/releases/tag/v1.0.4)
+
+update swift 4 & xcode 9
+
+---
+
 ## [1.0.3](https://github.com/Digipolitan/idylle-client-swift/releases/tag/v1.0.3)
 
 fix include error
