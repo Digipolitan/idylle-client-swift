@@ -12,17 +12,17 @@
 		3597EC7AE178BA4E501F11C1 /* Pods_Frameworks_IdylleClient_watchOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC2BB39546BBDF2479D6720A /* Pods_Frameworks_IdylleClient_watchOS.framework */; };
 		62131FBA1AAFB40E86B37114 /* Pods_Frameworks_IdylleClient_tvOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0122A4B7E30AD6CED77BBB23 /* Pods_Frameworks_IdylleClient_tvOS.framework */; };
 		6A86B79A4E32C0D7B294695A /* Pods_Frameworks_IdylleClient_OSX.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 487B80F7F34439005133457A /* Pods_Frameworks_IdylleClient_OSX.framework */; };
-		A30CD86E1F239CC50060908C /* CriteriaBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A30CD86D1F239CC50060908C /* CriteriaBuilder.swift */; };
-		A30CD86F1F239CC50060908C /* CriteriaBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A30CD86D1F239CC50060908C /* CriteriaBuilder.swift */; };
-		A30CD8701F239CC50060908C /* CriteriaBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A30CD86D1F239CC50060908C /* CriteriaBuilder.swift */; };
-		A30CD8711F239CC50060908C /* CriteriaBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A30CD86D1F239CC50060908C /* CriteriaBuilder.swift */; };
 		A3169DBA1DE05E8300BABAFD /* IdylleClient.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3169DB01DE05E8300BABAFD /* IdylleClient.framework */; };
 		A3169DF81DE0718900BABAFD /* IdylleClient.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3169DEF1DE0718900BABAFD /* IdylleClient.framework */; };
 		A3169E151DE072C800BABAFD /* IdylleClient.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3169E0C1DE072C700BABAFD /* IdylleClient.framework */; };
-		A3169E761DE083D900BABAFD /* IdylleClient.h in Headers */ = {isa = PBXBuildFile; fileRef = A3169E751DE083D900BABAFD /* IdylleClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A3169E771DE083D900BABAFD /* IdylleClient.h in Headers */ = {isa = PBXBuildFile; fileRef = A3169E751DE083D900BABAFD /* IdylleClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A3169E781DE083D900BABAFD /* IdylleClient.h in Headers */ = {isa = PBXBuildFile; fileRef = A3169E751DE083D900BABAFD /* IdylleClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A3169E791DE083D900BABAFD /* IdylleClient.h in Headers */ = {isa = PBXBuildFile; fileRef = A3169E751DE083D900BABAFD /* IdylleClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A370DED11FB0A904000FEDED /* IdylleClient.h in Headers */ = {isa = PBXBuildFile; fileRef = A370DECF1FB0A904000FEDED /* IdylleClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A370DED21FB0A904000FEDED /* IdylleClient.h in Headers */ = {isa = PBXBuildFile; fileRef = A370DECF1FB0A904000FEDED /* IdylleClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A370DED31FB0A904000FEDED /* IdylleClient.h in Headers */ = {isa = PBXBuildFile; fileRef = A370DECF1FB0A904000FEDED /* IdylleClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A370DED41FB0A904000FEDED /* IdylleClient.h in Headers */ = {isa = PBXBuildFile; fileRef = A370DECF1FB0A904000FEDED /* IdylleClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A370DED51FB0A904000FEDED /* CriteriaBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A370DED01FB0A904000FEDED /* CriteriaBuilder.swift */; };
+		A370DED61FB0A904000FEDED /* CriteriaBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A370DED01FB0A904000FEDED /* CriteriaBuilder.swift */; };
+		A370DED71FB0A904000FEDED /* CriteriaBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A370DED01FB0A904000FEDED /* CriteriaBuilder.swift */; };
+		A370DED81FB0A904000FEDED /* CriteriaBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = A370DED01FB0A904000FEDED /* CriteriaBuilder.swift */; };
 		A38EF2CA1DECF97000637484 /* IdylleClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38EF2C71DECF97000637484 /* IdylleClientTests.swift */; };
 		A38EF2CB1DECF97000637484 /* IdylleClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38EF2C71DECF97000637484 /* IdylleClientTests.swift */; };
 		A38EF2CC1DECF97000637484 /* IdylleClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38EF2C71DECF97000637484 /* IdylleClientTests.swift */; };
@@ -65,7 +65,6 @@
 		5A326529D94C11621BB8FB73 /* Pods-Tests-IdylleClientTests-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-IdylleClientTests-tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Tests-IdylleClientTests-tvOS/Pods-Tests-IdylleClientTests-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		67D402663A015FBA4EFC0FB3 /* Pods-Frameworks-IdylleClient-iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Frameworks-IdylleClient-iOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Frameworks-IdylleClient-iOS/Pods-Frameworks-IdylleClient-iOS.debug.xcconfig"; sourceTree = "<group>"; };
 		9606A593F7E187CE1AFEB7AF /* Pods-Frameworks-IdylleClient-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Frameworks-IdylleClient-tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Frameworks-IdylleClient-tvOS/Pods-Frameworks-IdylleClient-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		A30CD86D1F239CC50060908C /* CriteriaBuilder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CriteriaBuilder.swift; sourceTree = "<group>"; };
 		A3169DB01DE05E8300BABAFD /* IdylleClient.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IdylleClient.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3169DB91DE05E8300BABAFD /* IdylleClientTests-iOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IdylleClientTests-iOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3169DCC1DE0629100BABAFD /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -75,7 +74,8 @@
 		A3169DF71DE0718900BABAFD /* IdylleClientTests-tvOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IdylleClientTests-tvOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3169E0C1DE072C700BABAFD /* IdylleClient.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = IdylleClient.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3169E141DE072C800BABAFD /* IdylleClientTests-OSX.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IdylleClientTests-OSX.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		A3169E751DE083D900BABAFD /* IdylleClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IdylleClient.h; sourceTree = "<group>"; };
+		A370DECF1FB0A904000FEDED /* IdylleClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IdylleClient.h; sourceTree = "<group>"; };
+		A370DED01FB0A904000FEDED /* CriteriaBuilder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CriteriaBuilder.swift; sourceTree = "<group>"; };
 		A38EF2C71DECF97000637484 /* IdylleClientTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IdylleClientTests.swift; sourceTree = "<group>"; };
 		AC2BB39546BBDF2479D6720A /* Pods_Frameworks_IdylleClient_watchOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Frameworks_IdylleClient_watchOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B29B0942A20188B538ECC70D /* Pods-Tests-IdylleClientTests-OSX.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tests-IdylleClientTests-OSX.release.xcconfig"; path = "Pods/Target Support Files/Pods-Tests-IdylleClientTests-OSX/Pods-Tests-IdylleClientTests-OSX.release.xcconfig"; sourceTree = "<group>"; };
@@ -202,9 +202,8 @@
 		A3169DCA1DE0629100BABAFD /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				A3169E751DE083D900BABAFD /* IdylleClient.h */,
+				A370DECE1FB0A904000FEDED /* IdylleClient */,
 				A3169DCC1DE0629100BABAFD /* Info.plist */,
-				A30CD86D1F239CC50060908C /* CriteriaBuilder.swift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -216,6 +215,15 @@
 				A3169DD11DE062A000BABAFD /* Info.plist */,
 			);
 			path = Tests;
+			sourceTree = "<group>";
+		};
+		A370DECE1FB0A904000FEDED /* IdylleClient */ = {
+			isa = PBXGroup;
+			children = (
+				A370DECF1FB0A904000FEDED /* IdylleClient.h */,
+				A370DED01FB0A904000FEDED /* CriteriaBuilder.swift */,
+			);
+			path = IdylleClient;
 			sourceTree = "<group>";
 		};
 		A38EF2C61DECF97000637484 /* IdylleClientTests */ = {
@@ -247,7 +255,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A3169E781DE083D900BABAFD /* IdylleClient.h in Headers */,
+				A370DED31FB0A904000FEDED /* IdylleClient.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,7 +263,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A3169E791DE083D900BABAFD /* IdylleClient.h in Headers */,
+				A370DED41FB0A904000FEDED /* IdylleClient.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,7 +271,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A3169E761DE083D900BABAFD /* IdylleClient.h in Headers */,
+				A370DED11FB0A904000FEDED /* IdylleClient.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,7 +279,7 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A3169E771DE083D900BABAFD /* IdylleClient.h in Headers */,
+				A370DED21FB0A904000FEDED /* IdylleClient.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -891,7 +899,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A30CD86E1F239CC50060908C /* CriteriaBuilder.swift in Sources */,
+				A370DED51FB0A904000FEDED /* CriteriaBuilder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -907,7 +915,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A30CD86F1F239CC50060908C /* CriteriaBuilder.swift in Sources */,
+				A370DED61FB0A904000FEDED /* CriteriaBuilder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -915,7 +923,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A30CD8701F239CC50060908C /* CriteriaBuilder.swift in Sources */,
+				A370DED71FB0A904000FEDED /* CriteriaBuilder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -931,7 +939,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A30CD8711F239CC50060908C /* CriteriaBuilder.swift in Sources */,
+				A370DED81FB0A904000FEDED /* CriteriaBuilder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1011,6 +1019,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -1064,6 +1073,7 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -1279,7 +1289,6 @@
 				INFOPLIST_FILE = Sources/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = com.digipolitan.idylle.client;
 				PRODUCT_NAME = IdylleClient;
 				SDKROOT = macosx;
@@ -1303,7 +1312,6 @@
 				INFOPLIST_FILE = Sources/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				PRODUCT_BUNDLE_IDENTIFIER = com.digipolitan.idylle.client;
 				PRODUCT_NAME = IdylleClient;
 				SDKROOT = macosx;
