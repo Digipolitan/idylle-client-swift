@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## [1.0.5](https://github.com/Digipolitan/idylle-client-swift/releases/tag/v1.0.5)
+
+update swift4
+pbxproj
+spm
+travis
+
+---
+
 ## [1.0.4](https://github.com/Digipolitan/idylle-client-swift/releases/tag/v1.0.4)
 
 update swift 4 & xcode 9
